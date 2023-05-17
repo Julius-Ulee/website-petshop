@@ -1,4 +1,4 @@
-# Pet Shop 😺🐶`
+# Pet Shop 😺🐶
 
 Paw-Paw adalah sebuah pet shop yang berkomitmen untuk menyediakan produk dan layanan berkualitas tinggi untuk hewan peliharaan dan pemilik hewan. Kami memahami ikatan khusus antara hewan peliharaan dan pemiliknya, dan kami berusaha untuk meningkatkan dan merawat ikatan tersebut melalui berbagai penawaran kami.
 
