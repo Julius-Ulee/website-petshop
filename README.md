@@ -37,7 +37,7 @@ Objektif ini menggambarkan komitmen Paw-Paw untuk memberikan layanan pelanggan y
 
    <img src="./report/register.jpg" alt="drawing" width="auto"/>
 
-* reviewdanfooter page
+* Review dan Footer page
 
    <img src="./report/reviewdanfooter.jpg" alt="drawing" width="auto"/>
 
