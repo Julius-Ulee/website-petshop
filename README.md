@@ -1,4 +1,8 @@
-# website-petshop
+# Pet Shop 😺🐶`
 
-Website portofolio sederhana dengan menggunakan HTML, PHP, CSS dan Javascript
-# website-petshop
+Website sederhana dengan menggunakan HTML, PHP, CSS dan Javascript
+
+# Screen Shot 📷
+* Login page
+
+   <img src="./.github/login.jpg" alt="drawing" width="auto"/>
