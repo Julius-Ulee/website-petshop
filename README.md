@@ -54,6 +54,6 @@ Objektif ini menggambarkan komitmen Paw-Paw untuk memberikan layanan pelanggan y
 
 3. Extrak file project ke xampp/htdocs
 
-4. Buka aplikasi XAMPP lalu jalankan *Apache* 
+4. Buka aplikasi XAMPP lalu jalankan *Apache* & *sql*
 
 5. Buka Chrome ketik url : https://localhost/website-petshop/public/
