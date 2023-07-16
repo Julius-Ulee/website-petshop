@@ -57,3 +57,9 @@ Objektif ini menggambarkan komitmen Paw-Paw untuk memberikan layanan pelanggan y
 4. Buka aplikasi XAMPP lalu jalankan *Apache* & *sql*
 
 5. Buka Chrome ketik url : https://localhost/website-petshop/public/
+
+# Install On Windows ✅
+```bash
+$ git clone https://github.com/Julius-Ulee/website-petshop.git
+$ cd website-petshop
+```
